@@ -3,7 +3,7 @@
 It's a clone website that has been designed similar to the design of the Discord.
 
 
-## 📌 **Live Site URL:** <a href="[https://razorpay-copy.netlify.app/](https://discord-clonebysakshams23.netlify.app/)">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="[https://discord-clonebysakshams23.netlify.app/]">**Visit Now** 🚀</a>
 
 <br>
 
