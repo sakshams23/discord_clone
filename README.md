@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F1F7F4&width=441&height=55&lines=Glad+to+see+you+here+inside+my+Repo-%22discord_clone%22)](https://git.io/typing-svg)
 ##  Discord Clone 
 
 It's a clone website that has been designed similar to the design of the Discord.
